@@ -1,17 +1,16 @@
 
-<div align="center">
-    <img src="https://img.icons8.com/color/96/forest.png" width="80" alt="Forest Icon"/>
-  
-    <h1>BIOMASS2025</h1>
-    <p>
-        <b>🌳 Biomass Data Analysis & Visualization with Google Earth Engine 🌍</b>
-    </p>
-    <p>
-        <a href="#installation"><img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/License-MIT-green"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Contact-quyforest%40vnuf2.edu.vn-yellow"/></a>
-    </p>
-</div>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/forest.png" width="80" alt="Forest Icon"/>
+</p>
+
+# BIOMASS2025
+
+**🌳 Biomass Data Analysis & Visualization with Google Earth Engine 🌍**
+
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](#installation)
+[![License MIT](https://img.shields.io/badge/License-MIT-green)](#)
+[![Contact quyforest@vnuf2.edu.vn](https://img.shields.io/badge/Contact-quyforest%40vnuf2.edu.vn-yellow)](#)
 
 > BIOMASS2025 leverages advanced <b>Random Forest Machine Learning</b> and <b>Google Earth Engine</b> to estimate aboveground biomass density across <b>Cattien National Park</b>.
 
